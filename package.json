@@ -1,0 +1,11 @@
+{
+  "name": "ctravel-site",
+  "private": true,
+  "scripts": {
+    "build": "git submodule update --init --recursive && hugo --minify",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
