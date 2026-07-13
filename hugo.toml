@@ -1,0 +1,65 @@
+baseURL = "https://www.ctravel.top/"
+languageCode = "en-us"
+title = "CTravel — China Travel Guides"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+enableGitInfo = false
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"
+  title = "CTravel"
+  description = "Practical English guides for foreigners visiting China — Shenzhen, Zhangjiajie, Hong Kong day trips, visas, eSIM, and local tips."
+  keywords = ["China travel", "Shenzhen guide", "Zhangjiajie", "Hong Kong day trip", "China visa"]
+  author = "CTravel Team"
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = true
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = "China Travel, Explained"
+    Content = "Honest guides for first-time visitors — written from Shenzhen & Hunan with booking links that help keep this site free."
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Guides"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 20
+  [[menu.main]]
+    identifier = "privacy"
+    name = "Privacy"
+    url = "/privacy/"
+    weight = 30
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[services]
+  [services.googleAnalytics]
+    ID = ""
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
