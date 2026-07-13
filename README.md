@@ -5,7 +5,7 @@ English China Travel affiliate site for [www.ctravel.top](https://www.ctravel.to
 ## Stack
 
 - Hugo + [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
-- Cloudflare Pages (free CDN, no ICP)
+- Cloudflare **Workers** 静态托管（Pages 已并入 Workers，控制台不再单独显示 Pages）
 - OpenClaw `article-crafter-travel-en` → `ctravel-to-hugo.py` publish bridge
 
 ## Local build
@@ -15,14 +15,15 @@ git submodule update --init --recursive
 hugo server -D
 ```
 
-## Cloudflare Pages
+## Cloudflare Workers（Hugo 静态站）
 
-| Setting | Value |
-|---------|-------|
-| Build command | `git submodule update --init --recursive && hugo --minify` |
-| Output directory | `public` |
-| Environment variable | `HUGO_VERSION=0.120.0` |
-| Custom domain | `www.ctravel.top` |
+| 设置项 | 在哪里填 | 值 |
+|--------|----------|-----|
+| Build command | Settings → Build → Build configuration ✏️ | `git submodule update --init --recursive && hugo --minify` |
+| **Build output** | 仓库 `wrangler.jsonc` 的 `assets.directory` | **`./public`**（已在 Git 里，不用在 UI 找） |
+| Deploy command | Build configuration | `npx wrangler deploy` |
+| **Environment variable** | Settings → Build → **Variables and secrets** → **+** | `HUGO_VERSION` = `0.120.0` |
+| Custom domain | Settings → **Domains** | `www.ctravel.top` |
 
 ## DNS
 
