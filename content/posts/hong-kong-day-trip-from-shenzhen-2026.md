@@ -22,7 +22,7 @@ A **Hong Kong day trip from Shenzhen** is one of the best uses of a spare day â€
 1. Metro to **Futian Checkpoint** or take high-speed rail to **West Kowloon** (direct HK entry â€” very convenient if tickets available)
 2. If walking the land border: follow signs, fill arrival card, keep receipt stub
 
-- [Hong Kong activities on Klook](https://www.klook.com/en-US/city/19-hong-kong/?aff=AFFILIATE_KLOOK_ID)
+- [Hong Kong activities on Klook](https://affiliate.klook.com/redirect?aid=127865&aff_adid=1344649&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fcity%2F19-hong-kong%2F)
 - [Hotels in Hong Kong](https://www.booking.com/searchresults.html?ss=Hong+Kong&aid=AFFILIATE_BOOKING_ID)
 
 ## One-day itinerary
