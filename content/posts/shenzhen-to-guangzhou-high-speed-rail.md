@@ -19,7 +19,7 @@ affiliate_disclosure: true
 | Shenzhen North | Guangzhou South | More trains, larger station |
 | Shenzhen Airport | Guangzhou South | Good if flying in |
 
-- [Book trains on Trip.com](https://www.trip.com/trains/?AllianceId=AFFILIATE_TRIP_ID)
+- [Book trains on Trip.com](https://www.trip.com/trains/?locale=en-US&curr=USD&Allianceid=5128187&SID=325081226)
 - [Guangzhou hotels on Booking.com](https://www.booking.com/searchresults.html?ss=Guangzhou&aid=AFFILIATE_BOOKING_ID)
 
 ## Buying tickets
