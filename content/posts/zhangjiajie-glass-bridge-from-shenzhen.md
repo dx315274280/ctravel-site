@@ -16,7 +16,7 @@ The **Zhangjiajie glass bridge** and Avatar-style pillars are worth the trip fro
 1. **High-speed rail** Shenzhen North → Changsha South (~3 h), then Changsha → Zhangjiajie West (~2.5 h)
 2. Or fly **SZX → DYG** (Zhangjiajie Hehua Airport) when fares are low
 
-- [Search trains on Trip.com](https://www.trip.com/trains/?AllianceId=AFFILIATE_TRIP_ID)
+- [Search trains on Trip.com](https://www.trip.com/trains/?locale=en-US&curr=USD&Allianceid=5128187&SID=325081226)
 - [Zhangjiajie tours on Klook](https://www.klook.com/en-US/search/?query=zhangjiajie&aff=AFFILIATE_KLOOK_ID)
 
 ## Park tickets & timing
