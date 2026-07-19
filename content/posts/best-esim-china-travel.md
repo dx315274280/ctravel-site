@@ -24,7 +24,7 @@ Getting online in China is the #1 practical worry for new visitors. A **China-ca
 3. Keep WeChat as your main chat app while in China
 
 - [Travel eSIM deals on Amazon](https://www.amazon.com/s?k=china+esim&tag=ctraveltop-20)
-- [China data SIM on Klook](https://www.klook.com/en-US/search/?query=china+sim&aff=AFFILIATE_KLOOK_ID)
+- [China data SIM on Klook](https://affiliate.klook.com/redirect?aid=127865&aff_adid=1344653&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2F%3Fquery%3Dchina%2520sim)
 
 ## Physical SIM vs eSIM
 
