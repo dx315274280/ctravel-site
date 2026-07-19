@@ -17,7 +17,7 @@ The **Zhangjiajie glass bridge** and Avatar-style pillars are worth the trip fro
 2. Or fly **SZX → DYG** (Zhangjiajie Hehua Airport) when fares are low
 
 - [Search trains on Trip.com](https://www.trip.com/trains/?locale=en-US&curr=USD&Allianceid=5128187&SID=325081226)
-- [Zhangjiajie tours on Klook](https://www.klook.com/en-US/search/?query=zhangjiajie&aff=AFFILIATE_KLOOK_ID)
+- [Zhangjiajie tours on Klook](https://affiliate.klook.com/redirect?aid=127865&aff_adid=1344650&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2F%3Fquery%3Dzhangjiajie)
 
 ## Park tickets & timing
 

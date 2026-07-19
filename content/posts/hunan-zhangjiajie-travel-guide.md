@@ -25,7 +25,7 @@ affiliate_disclosure: true
 - **Tianmen Mountain** — cable car, glass skywalk
 - **Grand Canyon Glass Bridge** — separate ticket, time slots
 
-- [Zhangjiajie tickets on Klook](https://www.klook.com/en-US/search/?query=zhangjiajie&aff=AFFILIATE_KLOOK_ID)
+- [Zhangjiajie tickets on Klook](https://affiliate.klook.com/redirect?aid=127865&aff_adid=1344650&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fsearch%2F%3Fquery%3Dzhangjiajie)
 - [Hotels in Wulingyuan](https://www.booking.com/searchresults.html?ss=Zhangjiajie&aid=AFFILIATE_BOOKING_ID)
 
 ## Getting to Hunan
