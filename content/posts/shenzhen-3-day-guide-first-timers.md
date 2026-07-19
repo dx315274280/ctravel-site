@@ -17,8 +17,8 @@ Start at **Shenzhen Museum** (free, English labels) to understand how a fishing 
 
 **Stay:** Futian or Nanshan — both have metro access and international hotels.
 
-- [Book hotels in Shenzhen on Booking.com](AFFILIATE_BOOKING_SHENZHEN)
-- [Shenzhen activities on Klook](AFFILIATE_KLOOK_SHENZHEN)
+- [Book hotels in Shenzhen on Booking.com](https://www.booking.com/searchresults.html?ss=Shenzhen&aid=AFFILIATE_BOOKING_ID)
+- [Shenzhen activities on Klook](https://www.klook.com/en-US/city/20-shenzhen/?aff=AFFILIATE_KLOOK_ID)
 
 ## Day 2: OCT-LOFT & Sea World
 

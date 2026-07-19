@@ -16,8 +16,8 @@ The **Zhangjiajie glass bridge** and Avatar-style pillars are worth the trip fro
 1. **High-speed rail** Shenzhen North → Changsha South (~3 h), then Changsha → Zhangjiajie West (~2.5 h)
 2. Or fly **SZX → DYG** (Zhangjiajie Hehua Airport) when fares are low
 
-- [Search trains on Trip.com](AFFILIATE_TRIP_TRAIN)
-- [Zhangjiajie tours on Klook](AFFILIATE_KLOOK_ZHANGJIAJIE)
+- [Search trains on Trip.com](https://www.trip.com/trains/?AllianceId=AFFILIATE_TRIP_ID)
+- [Zhangjiajie tours on Klook](https://www.klook.com/en-US/search/?query=zhangjiajie&aff=AFFILIATE_KLOOK_ID)
 
 ## Park tickets & timing
 
@@ -29,7 +29,7 @@ Allow **2 full days** in the park: Day 1 Tianmen Mountain / glass bridge area; D
 
 Stay in **Wulingyuan town** near the park gate, not downtown Zhangjiajie city, unless you prefer quieter hotels.
 
-- [Hotels near Zhangjiajie on Booking.com](AFFILIATE_BOOKING_ZHANGJIAJIE)
+- [Hotels near Zhangjiajie on Booking.com](https://www.booking.com/searchresults.html?ss=Zhangjiajie&aid=AFFILIATE_BOOKING_ID)
 
 ## What to pack
 

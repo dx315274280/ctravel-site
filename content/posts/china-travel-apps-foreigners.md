@@ -23,7 +23,7 @@ Google Maps won't save you in mainland China. Install these **before you land**.
 | **Trip.com** | Trains, hotels, English support |
 | **Google Translate** | Offline packs; camera mode |
 
-- [Download guides & gear on Amazon](AFFILIATE_AMAZON_TRAVEL)
+- [Download guides & gear on Amazon](https://www.amazon.com/s?k=china+travel+adapter&tag=ctraveltop-20)
 
 ## Nice to have
 

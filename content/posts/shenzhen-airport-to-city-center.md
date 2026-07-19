@@ -29,8 +29,8 @@ Official taxi queue is outside Terminal 3. Estimate:
 
 Use **DiDi** app with English interface after setup.
 
-- [Shenzhen airport transfers on Klook](AFFILIATE_KLOOK_SHENZHEN)
-- [Hotels near Futian](AFFILIATE_BOOKING_SHENZHEN)
+- [Shenzhen airport transfers on Klook](https://www.klook.com/en-US/city/20-shenzhen/?aff=AFFILIATE_KLOOK_ID)
+- [Hotels near Futian](https://www.booking.com/searchresults.html?ss=Shenzhen&aid=AFFILIATE_BOOKING_ID)
 
 ## Late arrival
 

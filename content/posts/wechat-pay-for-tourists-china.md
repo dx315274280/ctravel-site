@@ -32,7 +32,7 @@ Cash is backup, not primary, in tier-1 cities.
 
 **Alipay Tour Pass** (when available) is equally important — install both apps.
 
-- [China travel essentials on Amazon](AFFILIATE_AMAZON_TRAVEL)
+- [China travel essentials on Amazon](https://www.amazon.com/s?k=china+travel+adapter&tag=ctraveltop-20)
 
 ## Common issues
 

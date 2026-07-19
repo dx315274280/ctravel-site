@@ -25,8 +25,8 @@ Nationality lists change. Check the latest **National Immigration Administration
 
 Day 1–2 Shenzhen → Day 3 Hong Kong (counts as third region exit if planned correctly) — **get professional advice if unsure**.
 
-- [Hotels in Guangdong on Booking.com](AFFILIATE_BOOKING_GUANGDONG)
-- [Shenzhen tours on Klook](AFFILIATE_KLOOK_SHENZHEN)
+- [Hotels in Guangdong on Booking.com](https://www.booking.com/searchresults.html?ss=Guangdong&aid=AFFILIATE_BOOKING_ID)
+- [Shenzhen tours on Klook](https://www.klook.com/en-US/city/20-shenzhen/?aff=AFFILIATE_KLOOK_ID)
 
 ## At the airport
 
